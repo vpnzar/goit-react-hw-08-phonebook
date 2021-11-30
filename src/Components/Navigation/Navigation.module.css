@@ -1,0 +1,17 @@
+Nav .navList {
+  display: contents;
+  justify-content: space-between;
+}
+.navLink {
+  display: inline-block;
+  text-decoration: none;
+  padding: 12px;
+  font-family: Segoe UI;
+  font-weight: 500;
+  font-size: 18px;
+  color: #e9ebec;
+}
+
+.activeNavLink {
+  color: hsl(7, 81%, 79%);
+}

@@ -1,0 +1,33 @@
+.regPage {
+  display: flex;
+  margin-top: 80px;
+  justify-content: center;
+  align-items: center;
+}
+
+.regForm {
+  display: inline-block;
+  padding: 50px;
+  width: auto;
+  height: auto;
+  box-shadow: 0 1px 3px 0 rgb(0 0 0 / 10%), 0 1px 1px 0 rgb(0 0 0 / 14%),
+    0 2px 1px -1px rgb(0 0 0 / 12%);
+  background-color: #e8f7fc;
+}
+form {
+  font-family: Segoe UI;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.btn-primary {
+  text-align: center;
+}
+/* 
+h1 {
+  padding-left: 5px;
+  font-family: Segoe UI;
+  font-size: 22px;
+  font-weight: 500;
+}
+  */

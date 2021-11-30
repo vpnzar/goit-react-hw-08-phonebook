@@ -1,0 +1,15 @@
+.navLink {
+  display: inline-flex;
+  align-items: center;
+
+  text-decoration: none;
+  padding: 12px;
+  font-family: Segoe UI;
+  font-weight: 500;
+  font-size: 16px;
+  color: #e9ebec;
+}
+
+.activeNavLink {
+  color: hsl(7, 81%, 79%);
+}
